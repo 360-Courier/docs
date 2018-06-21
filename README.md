@@ -19,5 +19,5 @@ Example:
 * **patbirthdate:** Patient's date of birth (yyyyMMdd)
 * **guidetype:** Guide Type
 * **implanttype:** Implant Type
-* **implantupperarch:** Teeth to be restored in the upper arch
-* **implantlowerarch:** Teeth to be restored in the lower arch
+* **implantupperarch:** Teeth to be restored in the upper arch (v0.15+)
+* **implantlowerarch:** Teeth to be restored in the lower arch (v0.15+)
